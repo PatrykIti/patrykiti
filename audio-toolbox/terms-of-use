@@ -1,0 +1,145 @@
+# Terms of Use - Audio Toolbox API
+
+*Effective Date: August 2025*
+*Version: 1.0 Beta*
+
+## 1. Acceptance of Terms
+By accessing Audio Toolbox API ("Service"), you agree to these Terms of Use. If you disagree, do not use the Service.
+
+## 2. Service Description
+Audio Toolbox API provides audio processing services including analysis, normalization, denoising, and format conversion. The Service is currently in beta and may change without notice.
+
+## 3. Permitted Use
+- Process audio files you own or have rights to
+- Integrate the API into your commercial or non-commercial applications
+- Build and monetize services using our API
+- Resell processed results as part of your value-added service
+- Use within your subscription tier limits
+- Store API responses per cache retention policy
+- White-label the functionality within your own products
+
+## 4. Prohibited Use
+You may NOT:
+- Process copyrighted content without permission
+- Exceed rate limits through circumvention
+- Reverse engineer the Service
+- Resell direct API access credentials
+- Share your API key with third parties
+- Use for illegal purposes
+- Process inappropriate or harmful content
+- Claim our underlying technology as your own
+
+## 5. Data Processing (GDPR Compliant)
+
+### 5.1 Data Controller
+You remain the data controller for all audio files processed.
+
+### 5.2 Data Processing
+- We process files solely to provide requested services
+- Temporary storage during processing only
+- Automatic deletion per tier retention policy
+- No third-party sharing without consent
+- Processing servers located in EU/US regions
+
+### 5.3 Data Security
+- TLS encryption for all API communications
+- Encrypted storage during processing
+- Regular security audits
+- Incident response procedures in place
+
+## 6. Privacy & Data Protection
+
+### 6.1 What We Collect
+- Audio files (temporarily during processing)
+- API usage metrics (requests, file sizes)
+- Account information (email, subscription)
+
+### 6.2 What We DON'T Collect
+- Audio content analysis for marketing
+- Personal information from audio
+- Permanent audio storage
+
+### 6.3 Your Rights (GDPR)
+- **Access**: Request your data
+- **Rectification**: Correct inaccurate data
+- **Erasure**: Delete your data
+- **Portability**: Export your data
+- **Objection**: Opt-out of processing
+
+Contact us via RapidAPi
+
+## 7. Intellectual Property
+- You retain all rights to your audio files
+- You retain all rights to processed content
+- We claim no ownership of your input or output data
+- You may use processed results in your commercial products
+- Our API and underlying technology remain our property
+- You may not claim our processing algorithms as your own
+- Attribution is appreciated but not required
+
+## 8. Commercial Use
+- You may build commercial services using our API
+- You may charge end-users for services built with our API
+- You are responsible for your end-user relationships
+- You must comply with your subscription tier limits
+- Volume discounts available for high-usage commercial applications
+
+## 9. Subscription & Billing
+- Managed through RapidAPI
+- Monthly recurring charges
+- Cancel anytime via RapidAPI
+- No refunds for partial months
+
+## 10. Service Level
+
+### 10.1 Beta Status
+- Service provided "as is"
+- No uptime guarantees during beta
+- Features may change or be removed
+- Best effort support
+
+### 10.2 Limitations
+- File size limits per tier
+- Processing time limits per tier
+- Rate limits enforced
+- Cache retention per tier
+
+## 11. Liability Limitation
+Service provided "AS IS" without warranties. We're not liable for:
+- Data loss
+- Service interruptions
+- Processing errors
+- Indirect damages
+- Your end-user claims
+
+## 12. Indemnification
+You indemnify us against claims arising from:
+- Your use of the Service
+- Your end-user relationships
+- Content processed through your applications
+
+## 13. Termination
+We may terminate access for Terms violations. You may cancel anytime.
+
+## 14. Changes to Terms
+We may update these Terms. Continued use constitutes acceptance.
+
+## 15. Governing Law
+These Terms are governed by Polish law, with disputes resolved in Polish courts.
+
+## 16. Contact Information
+**Support**: RapidAPi contact form.
+
+## 17. Data Processing Agreement (DPA)
+Available upon request for Enterprise customers requiring GDPR DPA documentation.
+
+---
+
+**GDPR Compliance Statement**: We comply with General Data Protection Regulation (EU) 2016/679. Our processing activities are lawful, transparent, and necessary for service provision under Article 6(1)(b) - contract performance.
+
+**Cookie Policy**: API-only service; no cookies used.
+
+**Children's Privacy**: Service not intended for users under 16.
+
+---
+*By using Audio Toolbox API, you acknowledge reading and accepting these Terms.*
